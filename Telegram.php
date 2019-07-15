@@ -1,8 +1,6 @@
 <?php
 class Telegram{ 
 
-   public $msg;
-   public $token;
 
    public function __construct($token){
      $this->token = $token;
