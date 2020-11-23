@@ -1,5 +1,8 @@
 <?php
 
+/**
+* above Telegram Bot API
+**/
 class Telegram{ 
 
 
